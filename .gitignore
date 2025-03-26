@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+/public/fallme.jpg
+/public/vite.svg
+/public/philosopherApiPic.jpg
+/public/pic01.png
+/public/me.jpg
+/public/download.png
