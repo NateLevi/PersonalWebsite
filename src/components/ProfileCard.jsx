@@ -14,7 +14,7 @@ const ProfileCard = () => {
           />
   
           {/* Name & Title */}
-          <h1 className="text-4xl font-bold mt-3">Nate Lee</h1>
+          <h1 className="text-4xl font-bold mt-3">Nate L.</h1>
           <p className="text-gray-600 pt-2">Full Stack Software Engineer</p>
   
           {/* Social Icons */}
