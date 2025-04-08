@@ -18,7 +18,7 @@ const ProjectPage = () => {
       <ProjectCard 
         projectName="Project 3:CS Swing System" 
         description= "The CellularSalesSwingApp is a application I developed during my time working as a sales rep for a verizon retailer, Cellular Sales. We used a rotation system called swings to fairly distribute walk-in customers among sales representatives, but tracking this manually led to confusion. So I built an app to fix these problems."
-        image="project3.jpg"
+        image="project3.png"
         link = "https://github.com/NateLevi/CellularSalesSwingApp"
       />
       <ProjectCard 
