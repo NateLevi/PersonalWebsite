@@ -25,7 +25,7 @@ const ProfileCard = () => {
             <a href="https://www.linkedin.com/in/natelevi/" target="_blank">
                 <FontAwesomeIcon icon={faLinkedin} className={`${colorMode === 'light' ? 'text-black text-4xl' : 'text-white text-4xl'} hover:text-gray-600`} />
             </a>
-            <a href="https://x.com/thedev_nate" target="_blank">
+            <a href="https://x.com/taoofnate" target="_blank">
                 <FontAwesomeIcon icon={faXTwitter} className={`${colorMode === 'light' ? 'text-black text-4xl' : 'text-white text-4xl'} hover:text-gray-600`} />
             </a>
           </div>

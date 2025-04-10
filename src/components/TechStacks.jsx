@@ -1,5 +1,5 @@
 import { FaHtml5, FaCss3Alt, FaJs, FaNodeJs, FaReact, FaGit, FaDatabase } from "react-icons/fa";
-import { SiExpress, SiMongodb, SiVite, SiTailwindcss, SiHeroku } from "react-icons/si";
+import { SiExpress, SiMongodb, SiVite, SiTailwindcss, SiHeroku, SiFirebase} from "react-icons/si";
 import { useOutletContext } from "react-router-dom";
 const techStacks = [
   { name: "HTML", icon: <FaHtml5 className="text-orange-500 w-16 h-16" /> },
@@ -12,6 +12,7 @@ const techStacks = [
   { name: "Vite", icon: <SiVite className="text-purple-500 w-16 h-16" /> },
 
   { name: "MongoDB", icon: <SiMongodb className="text-green-500 w-16 h-16" /> },
+  { name: "FireBase", icon: <SiFirebase className="text-orange-400 w-16 h-16" /> },
   { name: "Heroku", icon: <SiHeroku className="text-indigo-500 w-16 h-16" /> },
   { name: "Git", icon: <FaGit className="text-red-500 w-16 h-16" /> },
 ];
