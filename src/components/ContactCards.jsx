@@ -1,13 +1,14 @@
 import { FaMailBulk, FaGithub, FaLinkedin } from "react-icons/fa";
+// import { faXTwitter } from "@fortawesome/free-brands-svg-icons";
 import { useOutletContext } from "react-router-dom";
 
 const contactCards = [
-  {
-    name: "Email",
-    icon: <FaMailBulk className="text-black w-12 h-12" />,
-    description: "Contact me at",
-    contact: "nathan.levi8@gmail.com",
-  },
+  // {
+  //   name: "Email",
+  //   icon: <FaMailBulk className="text-black w-12 h-12" />,
+  //   description: "Contact me at",
+  //   contact: "nathan.levi8@gmail.com",
+  // },
   {
     name: "LinkedIn",
     icon: <FaLinkedin className="text-black w-12 h-12" />,
@@ -20,6 +21,12 @@ const contactCards = [
     description: "Commits and Contributions",
     contact: "@natelevi",
   },
+  // {
+  //   name: "X/Twitter",
+  //   icon: <FontAwesomeIcon icon={faXTwitter} className="text-black w-12 h-12"/>,
+  //   description: "Personal Twitter/X"
+  //   contact: "@taoofnate"
+  // }
 ];
 
 const ContactCards = () => {
