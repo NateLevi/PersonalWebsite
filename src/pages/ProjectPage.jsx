@@ -16,10 +16,10 @@ const ProjectPage = () => {
         link = "https://github.com/NateLevi/DailyGolazo"
       />
       <ProjectCard 
-        projectName="Project 3: CS Swing System" 
-        description= "The CellularSalesSwingApp is a application I developed during my time working as a sales rep for a verizon retailer, Cellular Sales. We used a rotation system called swings to fairly distribute walk-in customers among sales representatives, but tracking this manually led to confusion. So I built an app to fix these problems."
-        image="project3.png"
-        link = "https://github.com/NateLevi/CellularSalesSwingApp"
+        projectName="Project 3: Cs Manager System" 
+        description= 'Cs Manager System is an application I developed while working as a sales representative for a Verizon retailer, Cellular Sales. We used a rotation system called "swings" to fairly distribute walk-in customers among reps, but tracking it manually caused confusion. Additionally, we lacked a modern inventory and supply ordering system. I built this app to solve both problems.'
+        image="csswingproject.png"
+        link = "https://github.com/NateLevi/CsSwingManager"
       />
       <ProjectCard 
         projectName="Project 4: Philosopher Api" 
