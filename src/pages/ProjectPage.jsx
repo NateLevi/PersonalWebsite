@@ -5,7 +5,7 @@ const ProjectPage = () => {
     <div className="flex flex-col items-center justify-center">
       <ProjectCard 
         projectName="Project 1: Tropicuban Cafe" 
-        description="A responsive React/Vite website styled with TailwindCSS and powered by Firebase, built as a ordering platform for a now‑closed local Cuban cafe and deployed on Netlify to showcase my full‑stack web development skills." 
+        description="A responsive React/Vite website styled with TailwindCSS and powered by Firebase, built as a ordering platform for a local Cuban cafe and deployed on Netlify to showcase my full‑stack web development skills." 
         image="project2.png"
         link = "https://github.com/NateLevi/TropicubanCafe"
       />
