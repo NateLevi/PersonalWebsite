@@ -13,8 +13,9 @@ const techStacks = [
 
   { name: "MongoDB", icon: <SiMongodb className="text-green-500 w-16 h-16" /> },
   { name: "FireBase", icon: <SiFirebase className="text-orange-400 w-16 h-16" /> },
-  { name: "Heroku", icon: <SiHeroku className="text-indigo-500 w-16 h-16" /> },
+  { name: "Supabase", icon: <SiSupabase className="text-indigo-500 w-16 h-16" /> },
   { name: "Git", icon: <FaGit className="text-red-500 w-16 h-16" /> },
+  { name: "AWS", icon: <SiAmazonaws className="text-orange-500 w-16 h-16" /> },
 ];
 
 const TechStacks = () => {
