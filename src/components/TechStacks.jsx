@@ -1,5 +1,5 @@
 import { FaHtml5, FaCss3Alt, FaJs, FaNodeJs, FaReact, FaGit, FaDatabase } from "react-icons/fa";
-import { SiExpress, SiMongodb, SiVite, SiTailwindcss, SiHeroku, SiFirebase, SiSupabase, SiAmazonaws} from "react-icons/si";
+import { SiExpress, SiMongodb, SiVite, SiTailwindcss, SiHeroku, SiFirebase, SiSupabase} from "react-icons/si";
 import { useOutletContext } from "react-router-dom";
 const techStacks = [
   { name: "HTML", icon: <FaHtml5 className="text-orange-500 w-16 h-16" /> },
@@ -15,7 +15,6 @@ const techStacks = [
   { name: "FireBase", icon: <SiFirebase className="text-orange-400 w-16 h-16" /> },
   { name: "Supabase", icon: <SiSupabase className="text-indigo-500 w-16 h-16" /> },
   { name: "Git", icon: <FaGit className="text-red-500 w-16 h-16" /> },
-  { name: "AWS", icon: <SiAmazonaws className="text-orange-500 w-16 h-16" /> },
 ];
 
 const TechStacks = () => {
