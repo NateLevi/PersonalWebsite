@@ -1,5 +1,5 @@
 import { FaHtml5, FaCss3Alt, FaJs, FaNodeJs, FaReact, FaGit, FaDatabase } from "react-icons/fa";
-import { SiExpress, SiMongodb, SiVite, SiTailwindcss, SiHeroku, SiFirebase} from "react-icons/si";
+import { SiExpress, SiMongodb, SiVite, SiTailwindcss, SiHeroku, SiFirebase, SiSupabase, SiAmazonaws} from "react-icons/si";
 import { useOutletContext } from "react-router-dom";
 const techStacks = [
   { name: "HTML", icon: <FaHtml5 className="text-orange-500 w-16 h-16" /> },
