@@ -15,6 +15,7 @@ const techStacks = [
   { name: "FireBase", icon: <SiFirebase className="text-orange-400 w-16 h-16" /> },
   { name: "Supabase", icon: <SiSupabase className="text-indigo-500 w-16 h-16" /> },
   { name: "Git", icon: <FaGit className="text-red-500 w-16 h-16" /> },
+  { name: "Next.js", icon: <SiNextdotjs className="text-black w-16 h-16" /> },
 ];
 
 const TechStacks = () => {
