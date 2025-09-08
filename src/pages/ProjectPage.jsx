@@ -14,8 +14,8 @@ const ProjectPage = () => {
         projectName="Project 2: NBA Draft Hub" 
         description="Draft Hub I created for the Dallas Mavericks Front Office Decision Makers for the NBA Draft." 
         image="mavsproject.png"
-        link = "https://github.com/NateLevi/MavsDraftHub"
-        liveLink = "https://mavsdrafthub.netlify.app/"
+        link = "https://github.com/NateLevi/NBADraftHub"
+        liveLink = "https://nbadrafthubapp.netlify.app/"
       />
       <ProjectCard 
         projectName="Project 3: DailyGolazo" 
