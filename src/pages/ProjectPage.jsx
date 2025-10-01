@@ -27,7 +27,7 @@ const ProjectPage = () => {
       <ProjectCard 
         projectName="Project 4: College Basketball Player Development App" 
         description="This application gives coaches and players data to help improve player development based on performance metrics and statistics." 
-        image="cbbasketballapp.png"
+        image="cbbaketballapp.png"
         link="https://github.com/NateLevi/CollegeBasketballDevelopApp"
         liveLink="https://collegebbdevelopapp.netlify.app/"
       />
