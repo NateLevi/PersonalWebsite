@@ -6,7 +6,7 @@ const contactCards = [
   // {
   //   name: "Email",
   //   icon: <FaMailBulk className="text-black w-12 h-12" />,
-  //   description: "Contact me at",
+  //   description: "Contact me via email",
   //   contact: "nathan.levi8@gmail.com",
   // },
   {
